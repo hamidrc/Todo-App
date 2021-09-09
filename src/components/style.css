@@ -1,0 +1,48 @@
+.app-screen {
+    border: 2px #000;
+    border-radius: 12px;
+    width: 50vw;
+    height: 80vh;
+    margin: 5% 0 0 25%;
+    box-shadow: 0px 0px 2px 1px rgb(62, 62, 226);
+}
+
+.app-header {
+    font-size: 2vw;
+    font-weight: 600;
+    font-family: 'Courier New', Courier, monospace;
+    padding: 4% 0 0 40%;
+}
+
+.functions-box {
+    padding: 10% 0 0 10%;
+}
+
+.search-box {
+    width: 25vw;
+    height: 3vh;
+    border-color: rgb(62, 62, 226);
+    margin-right: 2%;
+}
+
+.add-button {
+    width: 6vw;
+    background-color: rgb(62, 62, 226);
+    font-size: 1.1vw;
+    margin-right: 2%;
+}
+
+.remove-button{
+    width: 8vw;
+    height: 3.5vh;
+    font-size: 1.5vw;
+    background-color: rgb(238, 123, 28);
+
+}
+
+.list-box {
+    margin: 0% 0 0 10%;
+    width: 26vw;
+    height: 30vh;
+    overflow-y: auto;
+}
